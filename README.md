@@ -41,9 +41,9 @@ During the development of this project, I learned:
 ## How to Run
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/DCy4/sticky-notes-app.git
-
+```sh
+git clone https://github.com/DCy4/sticky-notes-app.git
+```
 2. Navigate to the project directory:
 ```sh
 cd sticky-notes-app
@@ -53,8 +53,9 @@ cd sticky-notes-app
 npm install
 ```
 4. Start dev server
-   ```sh
-   npm run dev
+```sh
+npm run dev
+```
 5.Open your browser and go to **http://localhost:3000** to see the application in action.
 
 ## Future Improvements
