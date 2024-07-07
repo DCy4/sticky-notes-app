@@ -49,7 +49,8 @@ During the development of this project, I learned:
 cd sticky-notes-app
 ```
 3. Install the dependencies
-```npm install
+```sh
+npm install
 ```
 4. Start dev server
    ```sh
